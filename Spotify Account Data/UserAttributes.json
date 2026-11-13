@@ -1,0 +1,17 @@
+{
+  "username" : "katniss0112",
+  "email" : "kien.lucy12@gmail.com",
+  "country" : "US",
+  "createdFromFacebook" : false,
+  "facebookUid" : null,
+  "birthdate" : "2000-10-11",
+  "gender" : "female",
+  "postalCode" : null,
+  "mobileNumber" : null,
+  "mobileOperator" : null,
+  "mobileBrand" : null,
+  "creationTime" : "2015-06-20",
+  "assuredEstimatedAge" : null,
+  "assuredAgeMethod" : null,
+  "assuredAgeTimestamp" : null
+}

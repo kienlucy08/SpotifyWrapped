@@ -1,0 +1,117 @@
+{
+  "spotify:chat:5U2lRyh32PTo2uOkJsAOKp" : {
+    "group_name" : null,
+    "members" : [ "LucyKathryn", "mari" ],
+    "messages" : [ {
+      "time" : "2025-02-28T05:53:07.403Z",
+      "from" : "LucyKathryn",
+      "message" : "spotify:track:2fy2HfwP9GG0ejirtD0a2H",
+      "uri" : "spotify:chat-message:7JSyQH3Ce8YxJbA9qgAnH8"
+    }, {
+      "time" : "2025-12-16T18:23:06.639Z",
+      "from" : "LucyKathryn",
+      "message" : "spotify:playlist:0ondoTypBhOeVmFeMV5gyv",
+      "uri" : "spotify:chat-message:5zUqSinWNJRKe6JCPJEfdy"
+    } ]
+  },
+  "spotify:chat:5brRYBz1mthIMzPlGVZOhe" : {
+    "group_name" : null,
+    "members" : [ "LucyKathryn" ],
+    "messages" : [ {
+      "time" : "2025-12-03T17:09:34.255Z",
+      "from" : "Bella.g.giardini",
+      "message" : "spotify:track:4c4o8UhhNrJTfUq4NBmVvh",
+      "uri" : "spotify:chat-message:1SeqO9Q4WSu8p2XpEWU9b0"
+    }, {
+      "time" : "2025-12-30T03:23:56.330Z",
+      "from" : "LucyKathryn",
+      "message" : "spotify:playlist:0ondoTypBhOeVmFeMV5gyv?si=WKKREKbHS9GGFE_tC_vyzg",
+      "uri" : "spotify:chat-message:3Z4DuTCb785U79Kd62WpUC"
+    }, {
+      "time" : "2026-03-02T16:09:40.368Z",
+      "from" : "Bella.g.giardini",
+      "message" : "spotify:track:3uwnnTQcHM1rDqSfA4gQNz",
+      "uri" : "spotify:chat-message:6xhtmm3yJH0CiWZr5Ls7xK"
+    }, {
+      "time" : "2026-03-25T16:46:18.776Z",
+      "from" : "Bella.g.giardini",
+      "message" : "spotify:track:2rasIBA2SkmO7QC2aqakw4",
+      "uri" : "spotify:chat-message:2REV3o1seHqxMVF48SjEX7"
+    }, {
+      "time" : "2026-04-08T18:29:01.115Z",
+      "from" : "Bella.g.giardini",
+      "message" : "spotify:track:6c5wQFfJApRMooKE7UQnlH",
+      "uri" : "spotify:chat-message:6ar8UvJ48owZgDd6fdxFLi"
+    }, {
+      "time" : "2026-04-08T19:07:55.089Z",
+      "from" : "Bella.g.giardini",
+      "message" : "spotify:track:2FmeP6ubsT5h0JmGRm7eG5",
+      "uri" : "spotify:chat-message:56cAjjaCE6QJy58JLruVS1"
+    }, {
+      "time" : "2026-05-02T02:39:53.983Z",
+      "from" : "Bella.g.giardini",
+      "message" : "spotify:track:2NQYxiG6orwFKIdSGJNOfg",
+      "uri" : "spotify:chat-message:6yFi9iH6UzI30CXNwe73MI"
+    }, {
+      "time" : "2026-05-28T03:09:20.867Z",
+      "from" : "Bella.g.giardini",
+      "message" : "spotify:track:3GhfqidPZ0XMPThWZg6H3B",
+      "uri" : "spotify:chat-message:1tkyOYXLxIZjnrBRfGOAzJ"
+    }, {
+      "time" : "2026-06-03T01:56:16.166Z",
+      "from" : "Bella.g.giardini",
+      "message" : "spotify:track:5619Ojc6t9evEEs3B7Drhe",
+      "uri" : "spotify:chat-message:5wpnx0i04N11VokviwB0lU"
+    } ]
+  },
+  "spotify:chat:1Tr6MqkNlS7BhodBdnOymc" : {
+    "group_name" : null,
+    "members" : [ "LucyKathryn", "lskaletski" ],
+    "messages" : [ {
+      "time" : "2022-06-29T04:19:24.331Z",
+      "from" : "LucyKathryn",
+      "message" : "spotify:playlist:2TGBKbQbp0VzLb8u5Ifo17",
+      "uri" : "spotify:chat-message:4DDX7qEq9Nps1I4gSF50TT"
+    }, {
+      "time" : "2024-04-18T18:06:49.961Z",
+      "from" : "LucyKathryn",
+      "message" : "spotify:track:3xkHsmpQCBMytMJNiDf3Ii",
+      "uri" : "spotify:chat-message:6x6uB8lX8EvmhJBwp3oexz"
+    }, {
+      "time" : "2024-05-26T15:25:41.877Z",
+      "from" : "LucyKathryn",
+      "message" : "spotify:track:5zuPzhnGl0DRRWmquMi2MP",
+      "uri" : "spotify:chat-message:6G9wRyFrvzsk5yNafs9bFD"
+    }, {
+      "time" : "2026-04-26T19:17:41.702Z",
+      "from" : "lskaletski",
+      "message" : "spotify:track:5hqlKqkdVNyBkI2sjHgkdK?si=Hy_G__MRSC_UNiHWYMhBZA",
+      "uri" : "spotify:chat-message:5cIa6glNaLrX3SPQ8Ndwog"
+    }, {
+      "time" : "2026-04-26T19:17:47.921Z",
+      "from" : "lskaletski",
+      "message" : "This is kinda banger",
+      "uri" : "spotify:chat-message:2ThqrTzqXwpUyylUjEUje6"
+    }, {
+      "time" : "2026-04-27T17:37:21.749Z",
+      "from" : "LucyKathryn",
+      "message" : "It is banger tf haha",
+      "uri" : "spotify:chat-message:2zQVR6T1RwEv5efQXKUlhA"
+    }, {
+      "time" : "2026-04-27T17:38:44.850Z",
+      "from" : "lskaletski",
+      "message" : "I knowww. I’ve been listening to it on repeat.",
+      "uri" : "spotify:chat-message:68IFjUvcIOaydRL6pDGrRz"
+    }, {
+      "time" : "2026-05-02T02:47:17.308Z",
+      "from" : "LucyKathryn",
+      "message" : "LOVE it’s very good",
+      "uri" : "spotify:chat-message:5gFhhRXQ67udgxpjAoJWvJ"
+    }, {
+      "time" : "2026-05-02T02:47:27.070Z",
+      "from" : "LucyKathryn",
+      "message" : "I’m only on the Noah grind rn",
+      "uri" : "spotify:chat-message:6ONssAUChuZverttWI4LSo"
+    } ]
+  }
+}

@@ -1,0 +1,763 @@
+{
+  "stats" : [ {
+    "date" : "2026-11-09",
+    "streamCount" : 0,
+    "secondsPlayed" : 26587,
+    "topTracks" : [ {
+      "name" : "3",
+      "streamCount" : 5,
+      "secondsPlayed" : 1027
+    }, {
+      "name" : "The Wheel - From The Hunger Games: Sunrise on the Reaping - The Album",
+      "streamCount" : 3,
+      "secondsPlayed" : 528
+    }, {
+      "name" : "Hangover",
+      "streamCount" : 2,
+      "secondsPlayed" : 442
+    }, {
+      "name" : "Glorious (feat. Skylar Grey)",
+      "streamCount" : 2,
+      "secondsPlayed" : 279
+    }, {
+      "name" : "Superstar",
+      "streamCount" : 2,
+      "secondsPlayed" : 245
+    }, {
+      "name" : "Housewife X PILLOWTALK",
+      "streamCount" : 2,
+      "secondsPlayed" : 165
+    }, {
+      "name" : "Drunk With My Friends",
+      "streamCount" : 2,
+      "secondsPlayed" : 128
+    }, {
+      "name" : "Into You",
+      "streamCount" : 2,
+      "secondsPlayed" : 488
+    }, {
+      "name" : "Black Stars - From The Hunger Games: Sunrise on the Reaping - The Album",
+      "streamCount" : 2,
+      "secondsPlayed" : 389
+    }, {
+      "name" : "Break Your Heart",
+      "streamCount" : 2,
+      "secondsPlayed" : 369
+    } ],
+    "topArtists" : [ {
+      "name" : "Britney Spears",
+      "streamCount" : 12,
+      "secondsPlayed" : 2036
+    }, {
+      "name" : "Ashnikko",
+      "streamCount" : 8,
+      "secondsPlayed" : 1099
+    }, {
+      "name" : "Lady Gaga",
+      "streamCount" : 6,
+      "secondsPlayed" : 1212
+    }, {
+      "name" : "Tate McRae",
+      "streamCount" : 6,
+      "secondsPlayed" : 998
+    }, {
+      "name" : "Noah Kahan",
+      "streamCount" : 5,
+      "secondsPlayed" : 1027
+    }, {
+      "name" : "Kesha",
+      "streamCount" : 5,
+      "secondsPlayed" : 974
+    }, {
+      "name" : "Zara Larsson",
+      "streamCount" : 5,
+      "secondsPlayed" : 713
+    }, {
+      "name" : "The Hunger Games",
+      "streamCount" : 8,
+      "secondsPlayed" : 1486
+    }, {
+      "name" : "Flo Rida",
+      "streamCount" : 5,
+      "secondsPlayed" : 1084
+    }, {
+      "name" : "Taio Cruz",
+      "streamCount" : 4,
+      "secondsPlayed" : 812
+    } ],
+    "topGenres" : [ ]
+  }, {
+    "date" : "2026-11-02",
+    "streamCount" : 0,
+    "secondsPlayed" : 27328,
+    "topTracks" : [ {
+      "name" : "I Need Your Love (feat. Ellie Goulding)",
+      "streamCount" : 3,
+      "secondsPlayed" : 664
+    }, {
+      "name" : "You Make Me Feel... (feat. Sabi)",
+      "streamCount" : 3,
+      "secondsPlayed" : 601
+    }, {
+      "name" : "Siren sounds (bonus)",
+      "streamCount" : 3,
+      "secondsPlayed" : 534
+    }, {
+      "name" : "The Night Is Still Young",
+      "streamCount" : 3,
+      "secondsPlayed" : 480
+    }, {
+      "name" : "Die Young",
+      "streamCount" : 3,
+      "secondsPlayed" : 466
+    }, {
+      "name" : "I Love It (feat. Charli XCX)",
+      "streamCount" : 3,
+      "secondsPlayed" : 457
+    }, {
+      "name" : "NEIN SCHATZ",
+      "streamCount" : 3,
+      "secondsPlayed" : 282
+    }, {
+      "name" : "Miss possessive",
+      "streamCount" : 3,
+      "secondsPlayed" : 410
+    }, {
+      "name" : "BUTTERFLY",
+      "streamCount" : 2,
+      "secondsPlayed" : 531
+    }, {
+      "name" : "Clarity",
+      "streamCount" : 2,
+      "secondsPlayed" : 527
+    } ],
+    "topArtists" : [ {
+      "name" : "Tate McRae",
+      "streamCount" : 11,
+      "secondsPlayed" : 1791
+    }, {
+      "name" : "Ashnikko",
+      "streamCount" : 6,
+      "secondsPlayed" : 1045
+    }, {
+      "name" : "ADÉLA",
+      "streamCount" : 6,
+      "secondsPlayed" : 917
+    }, {
+      "name" : "Kesha",
+      "streamCount" : 6,
+      "secondsPlayed" : 904
+    }, {
+      "name" : "Calvin Harris",
+      "streamCount" : 4,
+      "secondsPlayed" : 892
+    }, {
+      "name" : "LISA",
+      "streamCount" : 4,
+      "secondsPlayed" : 738
+    }, {
+      "name" : "Britney Spears",
+      "streamCount" : 4,
+      "secondsPlayed" : 732
+    }, {
+      "name" : "Nicki Minaj",
+      "streamCount" : 4,
+      "secondsPlayed" : 657
+    }, {
+      "name" : "Doechii",
+      "streamCount" : 4,
+      "secondsPlayed" : 857
+    }, {
+      "name" : "MARINA",
+      "streamCount" : 3,
+      "secondsPlayed" : 738
+    } ],
+    "topGenres" : [ ]
+  }, {
+    "date" : "2026-10-26",
+    "streamCount" : 0,
+    "secondsPlayed" : 28774,
+    "topTracks" : [ {
+      "name" : "Housewife",
+      "streamCount" : 4,
+      "secondsPlayed" : 816
+    }, {
+      "name" : "3",
+      "streamCount" : 3,
+      "secondsPlayed" : 629
+    }, {
+      "name" : "STUPID (feat. Yung Baby Tate)",
+      "streamCount" : 3,
+      "secondsPlayed" : 306
+    }, {
+      "name" : "Eurosummer",
+      "streamCount" : 3,
+      "secondsPlayed" : 374
+    }, {
+      "name" : "Heads Will Roll - A-Trak Remix",
+      "streamCount" : 2,
+      "secondsPlayed" : 767
+    }, {
+      "name" : "Maneater",
+      "streamCount" : 2,
+      "secondsPlayed" : 517
+    }, {
+      "name" : "Under Your Spell",
+      "streamCount" : 2,
+      "secondsPlayed" : 464
+    }, {
+      "name" : "Ass Back Home (feat. Neon Hitch)",
+      "streamCount" : 2,
+      "secondsPlayed" : 442
+    }, {
+      "name" : "Blow",
+      "streamCount" : 2,
+      "secondsPlayed" : 434
+    }, {
+      "name" : "Don't Stop the Party (feat. TJR)",
+      "streamCount" : 2,
+      "secondsPlayed" : 412
+    } ],
+    "topArtists" : [ {
+      "name" : "Ashnikko",
+      "streamCount" : 21,
+      "secondsPlayed" : 3094
+    }, {
+      "name" : "bbno$",
+      "streamCount" : 14,
+      "secondsPlayed" : 1627
+    }, {
+      "name" : "Kesha",
+      "streamCount" : 10,
+      "secondsPlayed" : 1919
+    }, {
+      "name" : "Tate McRae",
+      "streamCount" : 10,
+      "secondsPlayed" : 1726
+    }, {
+      "name" : "Zara Larsson",
+      "streamCount" : 10,
+      "secondsPlayed" : 1606
+    }, {
+      "name" : "Britney Spears",
+      "streamCount" : 7,
+      "secondsPlayed" : 1462
+    }, {
+      "name" : "Lady Gaga",
+      "streamCount" : 5,
+      "secondsPlayed" : 1157
+    }, {
+      "name" : "Rihanna",
+      "streamCount" : 5,
+      "secondsPlayed" : 941
+    }, {
+      "name" : "ADÉLA",
+      "streamCount" : 4,
+      "secondsPlayed" : 717
+    }, {
+      "name" : "Slayyyter",
+      "streamCount" : 4,
+      "secondsPlayed" : 736
+    } ],
+    "topGenres" : [ ]
+  }, {
+    "date" : "2026-10-19",
+    "streamCount" : 0,
+    "secondsPlayed" : 63151,
+    "topTracks" : [ {
+      "name" : "Housewife",
+      "streamCount" : 12,
+      "secondsPlayed" : 2638
+    }, {
+      "name" : "Miss possessive",
+      "streamCount" : 4,
+      "secondsPlayed" : 539
+    }, {
+      "name" : "expectations (feat. Chappell Roan)",
+      "streamCount" : 4,
+      "secondsPlayed" : 580
+    }, {
+      "name" : "ATTENTION!",
+      "streamCount" : 3,
+      "secondsPlayed" : 620
+    }, {
+      "name" : "Deal With It (feat. Kelis)",
+      "streamCount" : 3,
+      "secondsPlayed" : 557
+    }, {
+      "name" : "Special",
+      "streamCount" : 3,
+      "secondsPlayed" : 358
+    }, {
+      "name" : "Hot & Sexy",
+      "streamCount" : 3,
+      "secondsPlayed" : 515
+    }, {
+      "name" : "Pretty Ugly",
+      "streamCount" : 3,
+      "secondsPlayed" : 434
+    }, {
+      "name" : "TIT FOR TAT",
+      "streamCount" : 3,
+      "secondsPlayed" : 402
+    }, {
+      "name" : "hot topic",
+      "streamCount" : 3,
+      "secondsPlayed" : 327
+    } ],
+    "topArtists" : [ {
+      "name" : "Tate McRae",
+      "streamCount" : 33,
+      "secondsPlayed" : 5746
+    }, {
+      "name" : "Ashnikko",
+      "streamCount" : 27,
+      "secondsPlayed" : 3873
+    }, {
+      "name" : "bbno$",
+      "streamCount" : 25,
+      "secondsPlayed" : 3180
+    }, {
+      "name" : "Zara Larsson",
+      "streamCount" : 18,
+      "secondsPlayed" : 3016
+    }, {
+      "name" : "Slayyyter",
+      "streamCount" : 15,
+      "secondsPlayed" : 2729
+    }, {
+      "name" : "ADÉLA",
+      "streamCount" : 11,
+      "secondsPlayed" : 1619
+    }, {
+      "name" : "BABY GRAVY",
+      "streamCount" : 11,
+      "secondsPlayed" : 1344
+    }, {
+      "name" : "Kesha",
+      "streamCount" : 10,
+      "secondsPlayed" : 1815
+    }, {
+      "name" : "Charli xcx",
+      "streamCount" : 9,
+      "secondsPlayed" : 1705
+    }, {
+      "name" : "Yung Gravy",
+      "streamCount" : 12,
+      "secondsPlayed" : 1498
+    } ],
+    "topGenres" : [ ]
+  }, {
+    "date" : "2026-10-12",
+    "streamCount" : 0,
+    "secondsPlayed" : 41488,
+    "topTracks" : [ {
+      "name" : "Housewife",
+      "streamCount" : 12,
+      "secondsPlayed" : 2502
+    }, {
+      "name" : "Morning After Dark (Featuring Nelly Furtado & SoShy)",
+      "streamCount" : 3,
+      "secondsPlayed" : 640
+    }, {
+      "name" : "Superscar",
+      "streamCount" : 2,
+      "secondsPlayed" : 388
+    }, {
+      "name" : "Stateside + Zara Larsson",
+      "streamCount" : 2,
+      "secondsPlayed" : 369
+    }, {
+      "name" : "Ain't In LA",
+      "streamCount" : 2,
+      "secondsPlayed" : 369
+    }, {
+      "name" : "Sexy Bitch (feat. Akon)",
+      "streamCount" : 2,
+      "secondsPlayed" : 347
+    }, {
+      "name" : "If U Seek Amy",
+      "streamCount" : 2,
+      "secondsPlayed" : 247
+    }, {
+      "name" : "Midnight Sun",
+      "streamCount" : 2,
+      "secondsPlayed" : 235
+    }, {
+      "name" : "Same Old Love",
+      "streamCount" : 2,
+      "secondsPlayed" : 227
+    }, {
+      "name" : "get him back!",
+      "streamCount" : 2,
+      "secondsPlayed" : 211
+    } ],
+    "topArtists" : [ {
+      "name" : "Tate McRae",
+      "streamCount" : 23,
+      "secondsPlayed" : 4075
+    }, {
+      "name" : "Zara Larsson",
+      "streamCount" : 13,
+      "secondsPlayed" : 1733
+    }, {
+      "name" : "Ashnikko",
+      "streamCount" : 11,
+      "secondsPlayed" : 1586
+    }, {
+      "name" : "ADÉLA",
+      "streamCount" : 9,
+      "secondsPlayed" : 1622
+    }, {
+      "name" : "Noah Kahan",
+      "streamCount" : 6,
+      "secondsPlayed" : 1358
+    }, {
+      "name" : "Slayyyter",
+      "streamCount" : 6,
+      "secondsPlayed" : 1116
+    }, {
+      "name" : "Britney Spears",
+      "streamCount" : 5,
+      "secondsPlayed" : 876
+    }, {
+      "name" : "Charli xcx",
+      "streamCount" : 5,
+      "secondsPlayed" : 698
+    }, {
+      "name" : "Calvin Harris",
+      "streamCount" : 4,
+      "secondsPlayed" : 703
+    }, {
+      "name" : "Gracie Abrams",
+      "streamCount" : 4,
+      "secondsPlayed" : 635
+    } ],
+    "topGenres" : [ ]
+  } ],
+  "highlights" : [ {
+    "date" : "2026-11-08",
+    "highlightType" : "TIME_WELL_SPENT",
+    "timeWellSpentHighlight" : {
+      "dimension" : "podcast",
+      "items" : [ {
+        "entity" : "The Daily",
+        "secondsPlayed" : 2274
+      }, {
+        "entity" : "The Journal.",
+        "secondsPlayed" : 1907
+      }, {
+        "entity" : "Up First from NPR",
+        "secondsPlayed" : 1848
+      } ]
+    }
+  }, {
+    "date" : "2026-11-08",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "StairMasty",
+      "listeningPercentage" : 40.749959417780424
+    }
+  }, {
+    "date" : "2026-11-01",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "LB Stair MASTER!!!",
+      "listeningPercentage" : 37.756768968753256
+    }
+  }, {
+    "date" : "2026-10-25",
+    "highlightType" : "TIME_WELL_SPENT",
+    "timeWellSpentHighlight" : {
+      "dimension" : "podcast",
+      "items" : [ {
+        "entity" : "The Journal.",
+        "secondsPlayed" : 2361
+      }, {
+        "entity" : "Kurzgesagt – In a Nutshell",
+        "secondsPlayed" : 1765
+      }, {
+        "entity" : "Rotten Mango",
+        "secondsPlayed" : 1507
+      } ]
+    }
+  }, {
+    "date" : "2026-10-25",
+    "highlightType" : "FANS_LIKE_YOU",
+    "fansLikeYouHighlight" : {
+      "entity" : "Housewife",
+      "country" : "US",
+      "position" : 1,
+      "previousPosition" : -1,
+      "numberOfListeners" : 3767671
+    }
+  }, {
+    "date" : "2026-10-18",
+    "highlightType" : "TIME_WELL_SPENT",
+    "timeWellSpentHighlight" : {
+      "dimension" : "album",
+      "items" : [ {
+        "entity" : "Housewife",
+        "secondsPlayed" : 2501
+      }, {
+        "entity" : "Smoochies",
+        "secondsPlayed" : 865
+      }, {
+        "entity" : "PRIMA",
+        "secondsPlayed" : 712
+      } ]
+    }
+  }, {
+    "date" : "2026-10-18",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "ADÉLA",
+      "dayStreaks" : 4
+    }
+  }, {
+    "date" : "2026-10-11",
+    "highlightType" : "TIME_WELL_SPENT",
+    "timeWellSpentHighlight" : {
+      "dimension" : "era",
+      "items" : [ {
+        "entity" : "2010",
+        "secondsPlayed" : 54012
+      } ]
+    }
+  }, {
+    "date" : "2026-10-11",
+    "highlightType" : "MILESTONE",
+    "milestoneHighlight" : {
+      "entity" : "Symphony vibes",
+      "milestoneListeningSeconds" : 55559
+    }
+  }, {
+    "date" : "2026-10-04",
+    "highlightType" : "TIME_WELL_SPENT",
+    "timeWellSpentHighlight" : {
+      "dimension" : "podcast",
+      "items" : [ {
+        "entity" : "The Daily",
+        "secondsPlayed" : 1145
+      }, {
+        "entity" : "Up First from NPR",
+        "secondsPlayed" : 911
+      } ]
+    }
+  }, {
+    "date" : "2026-10-04",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "iloveitiloveitiloveit",
+      "streamCount" : 6
+    }
+  }, {
+    "date" : "2026-10",
+    "highlightType" : "MONTHLY_RECAP",
+    "monthlyRecapHighlight" : {
+      "totalSecondsPlayed" : 240123,
+      "topTracks" : [ "Housewife", "Turn Around (5,4,3,2,1)", "iloveitiloveitiloveit", "Alarm", "Never Forget You", "Draw You Out - From The Hunger Games: Sunrise on the Reaping - The Album", "Outside (feat. Ellie Goulding)", "Morning After Dark (Featuring Nelly Furtado & SoShy)", "Cold Water", "Blow" ],
+      "topArtists" : [ "Tate McRae", "Ashnikko", "Zara Larsson", "Kesha", "bbno$", "Noah Kahan", "Ellie Goulding", "ADÉLA", "Slayyyter", "Flo Rida" ]
+    }
+  }, {
+    "date" : "2026-09-27",
+    "highlightType" : "TIME_WELL_SPENT",
+    "timeWellSpentHighlight" : {
+      "dimension" : "mood",
+      "items" : [ {
+        "entity" : "upbeat",
+        "secondsPlayed" : 16642
+      } ]
+    }
+  }, {
+    "date" : "2026-09-27",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Demi Lovato",
+      "dayStreaks" : 4
+    }
+  }, {
+    "date" : "2026-09-20",
+    "highlightType" : "TIME_WELL_SPENT",
+    "timeWellSpentHighlight" : {
+      "dimension" : "album",
+      "items" : [ {
+        "entity" : "The Papercut Chronicles II",
+        "secondsPlayed" : 1714
+      }, {
+        "entity" : "Ceremonials",
+        "secondsPlayed" : 1037
+      }, {
+        "entity" : "The Golden Age",
+        "secondsPlayed" : 964
+      } ]
+    }
+  }, {
+    "date" : "2026-09-20",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "Winter Spring (hopeful Kahan)",
+      "listeningPercentage" : 33.32895876532193
+    }
+  }, {
+    "date" : "2026-09-13",
+    "highlightType" : "TIME_WELL_SPENT",
+    "timeWellSpentHighlight" : {
+      "dimension" : "era",
+      "items" : [ {
+        "entity" : "2010",
+        "secondsPlayed" : 1647
+      } ]
+    }
+  }, {
+    "date" : "2026-09-06",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "Wink Wink",
+      "streamCount" : 6
+    }
+  }, {
+    "date" : "2026-09",
+    "highlightType" : "MONTHLY_RECAP",
+    "monthlyRecapHighlight" : {
+      "totalSecondsPlayed" : 99954,
+      "topTracks" : [ "All Night", "Outside (feat. Ellie Goulding)", "Run Boy Run", "I Need Your Love (feat. Ellie Goulding)", "Lights - Single Version", "Be My Lover (feat. La Bouche) - 2023 Mix", "brand new chanel$", "Freakin’ Out", "GIRL LIKE ME", "Disco Cone (Take It High) [ft. WENZL]" ],
+      "topArtists" : [ "Ellie Goulding", "Noah Kahan", "Kesha", "Charli xcx", "Calvin Harris", "Slayyyter", "Gym Class Heroes", "Icona Pop", "Lorde", "David Guetta" ]
+    }
+  }, {
+    "date" : "2026-08-30",
+    "highlightType" : "MILESTONE",
+    "multiEntityMilestoneHighlight" : {
+      "entities" : [ "Noah Kahan", "Ellie Goulding", "Calvin Harris", "I Need Your Love (feat. Ellie Goulding)", "Doors", "All Night", "Be My Lover (feat. La Bouche) - 2023 Mix", "Shadow in the Sun", "Hurricane" ],
+      "milestoneListeningSeconds" : 35776
+    }
+  }, {
+    "date" : "2026-08-23",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "brand new chanel$",
+      "streamCount" : 5
+    }
+  }, {
+    "date" : "2026-08-16",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Zara Larsson",
+      "dayStreaks" : 5
+    }
+  }, {
+    "date" : "2026-08-09",
+    "highlightType" : "MILESTONE",
+    "milestoneHighlight" : {
+      "entity" : "Noah Kahan",
+      "milestoneListeningSeconds" : 26284
+    }
+  }, {
+    "date" : "2026-08-02",
+    "highlightType" : "FIRST_TO_DISCOVER",
+    "firstToDiscoverHighlight" : {
+      "entity" : "Dutch Hardcore",
+      "country" : "US",
+      "position" : 7503
+    }
+  }, {
+    "date" : "2026-07-26",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Noah Kahan",
+      "dayStreaks" : 6
+    }
+  }, {
+    "date" : "2026-07-19",
+    "highlightType" : "YOU_STAND_OUT",
+    "youStandOutHighlight" : {
+      "entity" : "Noah Kahan",
+      "country" : "US",
+      "secondsPlayed" : 12796,
+      "marketAvgSecondsPlayed" : 2147.8127
+    }
+  }, {
+    "date" : "2026-07-12",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "Winter Spring (hopeful Kahan)",
+      "listeningPercentage" : 53.64949981474621
+    }
+  }, {
+    "date" : "2026-07-05",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "spotify:playlist:37i9dQZF1EP6YuccBxUcC1",
+      "listeningPercentage" : 32.30769230769231
+    }
+  }, {
+    "date" : "2026-06-28",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "literally my life - aufa remix",
+      "streamCount" : 6
+    }
+  }, {
+    "date" : "2026-06-21",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "bbno$",
+      "dayStreaks" : 6
+    }
+  }, {
+    "date" : "2026-06-14",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "Winter Spring (hopeful Kahan)",
+      "listeningPercentage" : 36.609061186361515
+    }
+  }, {
+    "date" : "2026-05-31",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "When Can I See You Again? - From \"Wreck-It Ralph\"/Soundtrack Version",
+      "streamCount" : 5
+    }
+  }, {
+    "date" : "2026-05-24",
+    "highlightType" : "FIRST_TO_DISCOVER",
+    "firstToDiscoverHighlight" : {
+      "entity" : "Sexy For Me (with Jazeek) (Remix)",
+      "country" : "US",
+      "position" : 3833
+    }
+  }, {
+    "date" : "2026-05-17",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Liekinheitin",
+      "dayStreaks" : 5
+    }
+  }, {
+    "date" : "2026-05-10",
+    "highlightType" : "FANS_LIKE_YOU",
+    "fansLikeYouHighlight" : {
+      "entity" : "Doors",
+      "country" : "US",
+      "position" : 5,
+      "previousPosition" : 1,
+      "numberOfListeners" : 2765759
+    }
+  }, {
+    "date" : "2026-05-03",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "Noah Kahan",
+      "listeningPercentage" : 72.83559386487515
+    }
+  }, {
+    "date" : "2026-04-26",
+    "highlightType" : "YOU_STAND_OUT",
+    "youStandOutHighlight" : {
+      "entity" : "Noah Kahan",
+      "country" : "US",
+      "secondsPlayed" : 22540,
+      "marketAvgSecondsPlayed" : 3287.8198
+    }
+  } ]
+}

@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>My Wrapped, Live</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Your <span class="grad">Wrapped</span>, live<span id="liveDot" class="dot" title="connected"></span></h1>
+    <a id="storyLink" class="cta" href="/story.html?range=year">▶ Play my Wrapped</a>
+    <nav id="ranges">
+      <button data-r="30d">30 days</button>
+      <button data-r="6m">6 months</button>
+      <button data-r="year" class="on">Past year</button>
+      <button data-r="all">All time</button>
+    </nav>
+  </header>
+
+  <main id="app"><p class="muted">Loading…</p></main>
+  <script src="app.js" type="module"></script>
+</body>
+</html>

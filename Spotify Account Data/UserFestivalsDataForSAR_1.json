@@ -1,0 +1,18 @@
+{
+  "festivalId" : "acl2026",
+  "totalArtistsMatched" : 38,
+  "userLineupMatchPercentile" : 2,
+  "festivalPersona" : "WRISTBAND VETERAN",
+  "topArtists" : [ {
+    "name" : "Charli xcx"
+  }, {
+    "name" : "Lorde"
+  }, {
+    "name" : "Natasha Bedingfield"
+  }, {
+    "name" : "Twenty One Pilots"
+  }, {
+    "name" : "Suki Waterhouse"
+  } ],
+  "topDiscoveryArtists" : [ ]
+}

@@ -1,0 +1,18 @@
+{
+  "festivalId" : "govball2026",
+  "totalArtistsMatched" : 23,
+  "userLineupMatchPercentile" : 5,
+  "festivalPersona" : "WRISTBAND VETERAN",
+  "topArtists" : [ {
+    "name" : "Lorde"
+  }, {
+    "name" : "Dominic Fike"
+  }, {
+    "name" : "King Princess"
+  }, {
+    "name" : "BETWEEN FRIENDS"
+  }, {
+    "name" : "Del Water Gap"
+  } ],
+  "topDiscoveryArtists" : [ ]
+}
